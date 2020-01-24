@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="mypkg" name="count" type="count.py" required="true" />
+  <node pkg="mypkg" name="twice" type="twice.py" required="true" />
+  <node pkg="mypkg" name="three" type="three.py" required="true" />
+  <node pkg="mypkg" name="five" type="five.py" required="true" />
+</launch>
