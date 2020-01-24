@@ -5,3 +5,5 @@ rostopic echo /count_up で0.1づつ増えて表示され。
 rostopic echo /twice で二の倍数が表示される。  
 rostopic echo /three で三の倍数が表示される。  
 rostopic echo /five で五の倍数が表示される。  
+https://github.com/ryuichiueda/robosys2019/blob/master/md/13_ros.md  
+https://ryuichiueda.github.io/robosys2019/lesson13.html  
